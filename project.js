@@ -1,5 +1,6 @@
 'use strict';
 
+
 let destinationArray = ["China", "Hong Kong", "France", "London", "Italy"];
 let restaurantArray = ["MCD", "KFC", "Pizza Hut", "Wendy's", "Taco Bell"];
 let transportationArray = ["Car", "Plane", "Boat", "Train", "Tesla"];
